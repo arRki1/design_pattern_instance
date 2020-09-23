@@ -1,0 +1,1 @@
+g++ -o bin/main.exe main.cpp concreteFlywight.cpp flywight_factory.cpp flywight.cpp

@@ -1,0 +1,1 @@
+g++ -o bin/main.exe main.cpp approval.cpp teller.cpp dept_manager.cpp master_manager.cpp director.cpp

@@ -1,0 +1,1 @@
+g++ -o bin/main.exe main.cpp player_abst.cpp player_abst_linux.cpp player_abst_unix.cpp player_abst_windows.cpp player_impl_avi.cpp player_impl_mpeg.cpp player_impl_rmvb.cpp player_impl_wmv.cpp player_impl.cpp

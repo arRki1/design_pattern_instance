@@ -1,0 +1,1 @@
+g++ -o bin/main.exe main.cpp facade.cpp sysA.cpp sysB.cpp sysC.cpp

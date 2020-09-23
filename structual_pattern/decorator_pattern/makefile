@@ -1,0 +1,1 @@
+g++ -o bin/main.exe main.cpp airplane.cpp car.cpp charge.cpp robot.cpp transform.cpp

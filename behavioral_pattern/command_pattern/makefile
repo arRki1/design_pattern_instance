@@ -1,0 +1,1 @@
+g++ -o bin/main.exe main.cpp televation.cpp command.cpp open_command.cpp close_command.cpp change_channel_command.cpp invoker.cpp
