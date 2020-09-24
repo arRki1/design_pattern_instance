@@ -1,0 +1,1 @@
+g++ -o bin/main.exe main.cpp concrete_strategyA.cpp concrete_strategyB.cpp context.cpp strategy.cpp

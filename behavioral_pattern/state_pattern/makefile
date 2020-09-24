@@ -1,0 +1,1 @@
+g++ -o bin/main.exe state.cpp context.cpp main.cpp concrete_stateA.cpp concrete_stateB.cpp

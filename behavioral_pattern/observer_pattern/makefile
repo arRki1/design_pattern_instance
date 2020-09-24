@@ -1,0 +1,1 @@
+g++ -o bin/main.exe main.cpp concrete_subject.cpp concrete_observer.cpp observer.cpp subject.cpp
