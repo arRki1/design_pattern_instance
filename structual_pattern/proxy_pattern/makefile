@@ -1,0 +1,1 @@
+g++ -o bin/main.exe main.cpp proxy.cpp real_subject.cpp subject.cpp
